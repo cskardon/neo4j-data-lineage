@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 895.1 964.3" style="enable-background:new 0 0 895.1 964.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A5ABB6;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;enable-background:new    ;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:8px;}
+	.st4{fill:#57C7E3;stroke:#23B3D7;stroke-width:2;}
+	.st5{fill:#2A2C34;enable-background:new    ;}
+	.st6{font-size:10px;}
+	.st7{fill:#A5ABB6;stroke:#9AA1AC;stroke-width:2;}
+	.st8{fill:#FFFFFF;enable-background:new    ;}
+	.st9{fill:#D9C8AE;stroke:#C0A378;stroke-width:2;}
+	.st10{fill:#ECB5C9;stroke:#DA7298;stroke-width:2;}
+</style>
+<g>
+	<g transform="translate(-67.18405742784476 28.319426286584697) rotate(407.0328584130613)">
+		<path class="st0" d="M610.3-24.1l41.2,0v-1l-41.2,0V-24.1z M745-24.1l41.2,0v3l7-3.5l-7-3.5v3l-41.2,0V-24.1z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 654.5482 -21.568)" class="st1 st2 st3">APPLICATION_OWNER</text>
+	</g>
+	<g transform="translate(91.51272934665413 198.69668576767268) rotate(291.37968355575765)">
+		<path class="st0" d="M-206.3,538.8h17.7v-1h-17.7V538.8z M-128.6,538.8h17.7v3l7-3.5l-7-3.5v3h-17.7V538.8z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -185.5724 541.2809)" class="st1 st2 st3">REPORTS_TO</text>
+	</g>
+	<g transform="translate(147.0399058008224 56.86000768886865) rotate(255.3922040384299)">
+		<path class="st0" d="M-478.4,300.2h59v-1h-59V300.2z M-378.8,300.2l59,0v3l7-3.5l-7-3.5v3l-59,0V300.2z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -381.7662 296.6567)" class="st1 st2 st3">DEFINES</text>
+	</g>
+	<g transform="translate(92.65549413918099 -151.8085638552821) rotate(462.2525395163719)">
+		<path class="st0" d="M338.7-494.3h75.4v-1h-75.4V-494.3z M482-494.3h75.4v3l7-3.5l-7-3.5v3H482V-494.3z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 478.953 -497.7815)" class="st1 st2 st3">RECEIVES_CDE</text>
+	</g>
+	<g transform="translate(262.8307004250375 14.872817690971539) rotate(520.0687222003658)">
+		<path class="st0" d="M-226.7-528.6h3.1v-1h-3.1V-528.6z M-163.6-528.6h3.1v3l7-3.5l-7-3.5v3h-3.1V-528.6z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -166.6026 -532.0523)" class="st1 st2 st3">REPORTS_TO</text>
+	</g>
+	<g transform="translate(262.8307004250375 14.872817690971539) rotate(224.40575829166835)">
+		<path class="st0" d="M-560.9-1.8l51.1,0v-1l-51.1,0V-1.8z M-430.8-1.8l51.1,0v3l7-3.5l-7-3.5v3l-51.1,0V-1.8z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -433.7916 -5.2871)" class="st1 st2 st3">DQ_RESPONSIBLE</text>
+	</g>
+	<g transform="translate(265.7081824759928 187.82618820547899) rotate(536.4291431741933)">
+		<path class="st0" d="M-365.5-436.2h38.2v-1h-38.2V-436.2z M-286.2-436.2h38.2v3l7-3.5l-7-3.5v3h-38.2V-436.2z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -289.1663 -439.7435)" class="st1 st2 st3">MEMBER</text>
+	</g>
+	<g transform="translate(147.0399058008224 56.86000768886865) rotate(407.8203189951599)">
+		<path class="st0" d="M609.9-32.1l39.3,0v-1l-39.3,0V-32.1z M690.4-32.1l39.3,0v3l7-3.5l-7-3.5v3l-39.3,0V-32.1z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 652.2573 -29.6103)" class="st1 st2 st3">MEMBER</text>
+	</g>
+	<g transform="translate(262.8307004250375 14.872817690971539) rotate(449.0468392297905)">
+		<path class="st0" d="M443.5-409.5h37.4v-1h-37.4V-409.5z M522-409.5h37.4v3l7-3.5l-7-3.5v3H522V-409.5z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 483.8855 -407.0303)" class="st1 st2 st3">MEMBER</text>
+	</g>
+	<g transform="translate(265.7081824759928 187.82618820547899) rotate(248.96787776422616)">
+		<path class="st0" d="M-508.8,241.9l77.5,0v-1l-77.5,0V241.9z M-403.1,241.9h77.5v3l7-3.5l-7-3.5v3h-77.5V241.9z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -406.0768 238.4472)" class="st1 st2 st3">READ</text>
+	</g>
+	<g transform="translate(-43.459453045643 -88.0273804374251) rotate(373.0443129221728)">
+		<path class="st0" d="M524.1,307.4l60,0v-1l-60,0V307.4z M635.9,307.4l60,0v3l7-3.5l-7-3.5v3l-60,0V307.4z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 587.1108 309.8504)" class="st1 st2 st3">OWNED_BY</text>
+	</g>
+	<g transform="translate(-43.459453045643 -88.0273804374251) rotate(429.320382333296)">
+		<path class="st0" d="M557.3-244.2l58.2,0v-1l-58.2,0V-244.2z M661.9-244.2l58.2,0v3l7-3.5l-7-3.5v3l-58.2,0V-244.2z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 618.4518 -241.7262)" class="st1 st2 st3">RECEIVES</text>
+	</g>
+	<g transform="translate(179.50276359568684 -36.37083282060388) rotate(405.0600375935119)">
+		<path class="st0" d="M610.8-3.9l47.2,0v-1l-47.2,0V-3.9z M709.7-3.9l47.2,0v3l7-3.5l-7-3.5v3l-47.2,0V-3.9z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 661.0121 -1.4026)" class="st1 st2 st3">STORED_IN</text>
+	</g>
+	<g transform="translate(34.151731755807276 117.58584130293202) rotate(357.9620984400599)">
+		<path class="st0" d="M427,426.6l85.4,0v-1l-85.4,0V426.6z M573.6,426.6l85.4,0v3l7-3.5l-7-3.5v3l-85.4,0V426.6z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 515.4293 429.141)" class="st1 st2 st3">DEPENDS_ON</text>
+	</g>
+	<g transform="translate(265.7081824759928 187.82618820547899) rotate(342.356654943629)">
+		<path class="st0" d="M297.6,519.1h53.7v-1h-53.7V519.1z M379.5,519.1h53.7v3l7-3.5l-7-3.5v3h-53.7V519.1z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 354.2442 521.5839)" class="st1 st2 st3">READ</text>
+	</g>
+	<g transform="translate(449.2111486275128 129.46278982975787) rotate(189.94552756154673)">
+		<path class="st0" d="M-456.8-332.9h9.8v-1h-9.8V-332.9z M-395.3-332.9h9.8v3l7-3.5l-7-3.5v3h-9.8V-332.9z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -398.3052 -336.3805)" class="st1 st2 st3">STORED_IN</text>
+	</g>
+	<g transform="translate(265.7081824759928 187.82618820547899) rotate(409.7106268006506)">
+		<path class="st0" d="M608.6-51.4l25.2,0v-1l-25.2,0V-51.4z M661.9-51.4l25.2,0v3l7-3.5l-7-3.5v3h-25.2V-51.4z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 636.7099 -48.8881)" class="st1 st2 st3">READ</text>
+	</g>
+	<g transform="translate(353.3534124099902 291.21276260244264) rotate(260.5926659757408)">
+		<path class="st0" d="M-449.2,344.6l38.9,0v-1h-38.9V344.6z M-358.7,344.6h38.9v3l7-3.5l-7-3.5v3h-38.9V344.6z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -361.6642 341.0536)" class="st1 st2 st3">STORED_IN</text>
+	</g>
+	<g transform="translate(265.7081824759928 187.82618820547899) rotate(295.4890027400272)">
+		<path class="st0" d="M-167.1,554h65.5v-1h-65.5V554z M-73.4,554h65.5l0,3l7-3.5l-7-3.5v3h-65.5V554z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -98.6067 556.4692)" class="st1 st2 st3">READ</text>
+	</g>
+	<g transform="translate(358.7470552241465 -7.330255014749634) rotate(467.3707689536619)">
+		<path class="st0" d="M293.3-520.3h5.7v-1h-5.7V-520.3z M350.7-520.3h5.7v3l7-3.5l-7-3.5v3h-5.7V-520.3z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 347.7072 -523.7958)" class="st1 st2 st3">STORED_IN</text>
+	</g>
+	<g transform="translate(81.65475308273201 -18.50884759320546) rotate(362.3102014829927)">
+		<path class="st0" d="M458.2,394.9h84.3v-1h-84.3V394.9z M594.2,394.9l84.3,0v3l7-3.5l-7-3.5v3l-84.3,0V394.9z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 545.4519 397.4338)" class="st1 st2 st3">OWNED_BY</text>
+	</g>
+	<g transform="translate(81.65475308273201 -18.50884759320546) rotate(469.24122958501124)">
+		<path class="st0" d="M276.2-528.8h20.3v-1h-20.3V-528.8z M343-528.8l20.3,0v3l7-3.5l-7-3.5v3l-20.3,0V-528.8z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 339.9875 -532.277)" class="st1 st2 st3">RECEIVES</text>
+	</g>
+	<g transform="translate(265.7081824759928 187.82618820547899) rotate(373.3636334746134)">
+		<path class="st0" d="M525.8,304.6H567v-1h-41.2V304.6z M595.2,304.6h41.2v3l7-3.5l-7-3.5v3h-41.2V304.6z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 569.9985 307.0641)" class="st1 st2 st3">READ</text>
+	</g>
+	<g transform="translate(428.84768436735993 226.5820922145997) rotate(228.381210394375)">
+		<path class="st0" d="M-559.6,38.8l25.5,0v-1l-25.5,0V38.8z M-482.5,38.8h25.5v3l7-3.5l-7-3.5v3h-25.5V38.8z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -485.51 35.3354)" class="st1 st2 st3">STORED_IN</text>
+	</g>
+	<g transform="translate(-67.18405742784476 28.319426286584697) rotate(320.9543386303278)">
+		<path class="st0" d="M89.5,582.8l108.2,0v-1l-108.2,0L89.5,582.8z M252.7,582.8h108.2v3l7-3.5l-7-3.5v3H252.7V582.8z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 200.7913 585.2906)" class="st1 st2 st3">SENDS_CDE</text>
+	</g>
+	<g transform="translate(187.86621960091762 -178.55298103772225) rotate(319.900662064431)">
+		<path class="st0" d="M78.8,583.9H80v-1h-1.2V583.9z M144.7,583.9h1.2v3l7-3.5l-7-3.5v3h-1.2V583.9z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 83.0378 586.3787)" class="st1 st2 st3">RECEIVES_C…</text>
+	</g>
+	<g transform="translate(227.06823464191788 -382.5748471971421) rotate(425.81073871800675)">
+		<path class="st0" d="M571.3-211.2l3.5,0v-1l-3.5,0V-211.2z M646.8-211.2h3.5v3l7-3.5l-7-3.5v3h-3.5V-211.2z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 577.8174 -208.6822)" class="st1 st2 st3">PROVIDES_DATA</text>
+	</g>
+	<g transform="translate(227.06823464191788 -382.5748471971421) rotate(480.219201979217)">
+		<path class="st0" d="M169.8-560.5l0.3-1c25.6,6.9,51.9,11.3,78.3,13.2l-0.1,1C221.8-549.2,195.5-553.6,169.8-560.5z M303.3-546.9
+			l-0.1-1c26.5-1.6,52.8-5.6,78.5-12.2l-0.7-2.9l7.6,1.7l-5.9,5.1l-0.7-2.9C356.2-552.5,329.8-548.4,303.3-546.9"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 300.2538 -549.6618)" class="st1 st2 st3">SENDS_CDE</text>
+	</g>
+	<g transform="translate(92.65549413918099 -151.8085638552821) rotate(300.219201979217)">
+		<path class="st0" d="M-121.8,574.4l0.3-1c23.6,6.3,47.6,10.6,71.9,12.7l-0.1,1C-74,585-98.2,580.7-121.8,574.4z M18.1,587.5
+			l-0.1-1c24.3-1.8,48.4-5.7,72.1-11.7l-0.7-2.9l7.6,1.7l-5.9,5.1l-0.7-2.9C66.7,581.8,42.5,585.7,18.1,587.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -46.691 591.1878)" class="st1 st2 st3">RECEIVES_CDE</text>
+	</g>
+	<g transform="translate(92.65549413918099 -151.8085638552821) rotate(330.70433055927333)">
+		<path class="st0" d="M187.2,563.4h46.6v-1h-46.6V563.4z M301.6,563.4h46.6v3l7-3.5l-7-3.5v3h-46.6V563.4z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 236.8386 565.95)" class="st1 st2 st3">RECEIVES_CDE</text>
+	</g>
+	<g transform="translate(227.06823464191788 -382.5748471971421) rotate(460.8766008974118)">
+		<path class="st0" d="M349.5-480.2l0.3-1c16,4.3,32.3,7.2,48.7,8.9l-0.1,1C381.9-472.9,365.5-475.9,349.5-480.2z M453.3-470.8
+			l-0.1-1c16.5-1.4,32.8-4,48.9-8.1l-0.7-2.9l7.6,1.7l-5.9,5.1l-0.7-2.9C486.2-474.8,469.9-472.1,453.3-470.8"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 450.3059 -473.2758)" class="st1 st2 st3">SENDS_CDE</text>
+	</g>
+	<g transform="translate(227.06823464191788 -382.5748471971421) rotate(483.2299016789681)">
+		<path class="st0" d="M140.8-573.8h0.2v-1h-0.2V-573.8z M185.6-573.8h0.2v3l7-3.5l-7-3.5v3h-0.2V-573.8z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 182.6294 -577.2992)" class="st1 st2 st3">PROVID…</text>
+	</g>
+	<g transform="translate(92.65549413918099 -151.8085638552821) rotate(298.3618341410229)">
+		<path class="st0" d="M-139.1,562.9l20.2,0v-1l-20.2,0V562.9z M-51.1,562.9h20.2v3l7-3.5l-7-3.5v3h-20.2V562.9z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -115.8677 565.4016)" class="st1 st2 st3">RECEIVES_CDE</text>
+	</g>
+	<g transform="translate(227.06823464191788 -382.5748471971421) rotate(507.2591923297053)">
+		<path class="st0" d="M-103.1-571.2h27.3v-1h-27.3V-571.2z M-3.8-571.2h27.3v3l7-3.5l-7-3.5l0,3H-3.8L-3.8-571.2z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -6.8125 -574.6802)" class="st1 st2 st3">PROVIDES_DATA</text>
+	</g>
+	<g transform="translate(92.65549413918099 -151.8085638552821) rotate(261.33093903910617)">
+		<path class="st0" d="M-444.7,350.6h4.1v-1h-4.1V350.6z M-372.8,350.6h4.1v3l7-3.5l-7-3.5v3h-4.1V350.6z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -375.8319 347.1345)" class="st1 st2 st3">RECEIVES_CDE</text>
+	</g>
+	<g transform="translate(227.06823464191788 -382.5748471971421) rotate(536.1142072146502)">
+		<path class="st0" d="M-363.1-438.4h0.8v-1h-0.8V-438.4z M-302.5-438.4h0.8v3l7-3.5l-7-3.5v3h-0.8V-438.4z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -305.5059 -441.8835)" class="st1 st2 st3">PROVIDES_…</text>
+	</g>
+	<g transform="translate(92.65549413918099 -151.8085638552821) rotate(274.1909401500445)">
+		<path class="st0" d="M-355,446.4h49.3v-1H-355V446.4z M-237.9,446.4l49.3,0l0,3l7-3.5l-7-3.5v3l-49.3,0V446.4z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -302.7323 448.8972)" class="st1 st2 st3">RECEIVES_CDE</text>
+	</g>
+	<g transform="translate(187.86621960091762 -178.55298103772225) rotate(280.8766008974118)">
+		<path class="st0" d="M-301.5,494.1l0.3-1c13.9,3.7,28,6.5,42.3,8.2l-0.1,1C-273.4,500.5-287.5,497.8-301.5,494.1z M-191.3,502.8
+			l-0.1-1c14.3-1.5,28.5-4,42.4-7.5l-0.7-2.9l7.6,1.7l-5.9,5.1l-0.7-2.9C-162.7,498.8-176.9,501.3-191.3,502.8"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -256.0605 506.9354)" class="st1 st2 st3">RECEIVES_CDE</text>
+	</g>
+	<g transform="translate(187.86621960091762 -178.55298103772225) rotate(261.99501848483203)">
+		<path class="st0" d="M-440.6,356.1h2v-1h-2V356.1z M-379.7,356.1h2v3l7-3.5l-7-3.5v3h-2V356.1z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -382.7379 352.5554)" class="st1 st2 st3">RECEIVES_…</text>
+	</g>
+	<g transform="translate(187.86621960091762 -178.55298103772225) rotate(222.25529183282669)">
+		<path class="st0" d="M-560.4-23.8l15.5,0v-1l-15.5,0V-23.8z M-477.1-23.8l15.5,0v3l7-3.5l-7-3.5v3l-15.5,0V-23.8z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -480.0979 -27.2688)" class="st1 st2 st3">RECEIVES_CDE</text>
+	</g>
+	<g transform="translate(187.86621960091762 -178.55298103772225) rotate(248.07559374775894)">
+		<path class="st0" d="M-512.5,233.6l43.2,0v-1l-43.2,0V233.6z M-401.4,233.6h43.2v3l7-3.5l-7-3.5v3h-43.2V233.6z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -404.446 230.1048)" class="st1 st2 st3">RECEIVES_CDE</text>
+	</g>
+	<g transform="translate(147.0399058008224 56.86000768886865) rotate(279.8386193837514)">
+		<path class="st0" d="M-309.3,481.6l70.6,0v-1l-70.6,0V481.6z M-198,481.6l70.6,0v3l7-3.5l-7-3.5v3l-70.6,0V481.6z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -235.6514 484.1294)" class="st1 st2 st3">DEFINES</text>
+	</g>
+	<g transform="translate(262.8307004250375 14.872817690971539) rotate(248.81556420438994)">
+		<path class="st0" d="M-509.4,240.5l35.8,0v-1l-35.8,0V240.5z M-394.8,240.5h35.8v3l7-3.5l-7-3.5v3h-35.8V240.5z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -397.7499 237.0267)" class="st1 st2 st3">DQ_RESPONSIBLE</text>
+	</g>
+	<g transform="translate(-24.339314053017823 -259.7447334049716) rotate(380.93730174341033)">
+		<path class="st0" d="M561.5,235.9l56.3,0v-1l-56.3,0V235.9z M675.4,235.9l56.3,0v3l7-3.5l-7-3.5v3l-56.3,0V235.9z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 620.8021 238.4098)" class="st1 st2 st3">DEFINED_ON</text>
+	</g>
+	<g transform="translate(-227.75200639147263 -243.00738293337182) rotate(355.29614381128044)">
+		<path class="st0" d="M406.8,444.9l44.5,0v-1l-44.5,0V444.9z M509.3,444.9h44.5v3l7-3.5l-7-3.5v3h-44.5V444.9z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 454.3241 447.3797)" class="st1 st2 st3">IMPLEMENTS</text>
+	</g>
+	<g transform="translate(-227.75200639147263 -243.00738293337182) rotate(400.0620080751895)">
+		<path class="st0" d="M609,47.2l72.2,0v-1l-72.2,0V47.2z M720.6,47.2l72.2,0v3l7-3.5l-7-3.5v3l-72.2,0V47.2z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 684.2242 49.6529)" class="st1 st2 st3">CHECKS</text>
+	</g>
+	<g transform="translate(-24.339314053017823 -259.7447334049716) rotate(402.69377505161543)">
+		<path class="st0" d="M610.5,20.3l22.3,0v-1l-22.3,0V20.3z M690.4,20.3l22.3,0v3l7-3.5l-7-3.5v3l-22.3,0V20.3z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 635.8306 22.7883)" class="st1 st2 st3">DEFINED_ON</text>
+	</g>
+	<g transform="translate(-67.18405742784476 28.319426286584697) rotate(526.8380772262217)">
+		<path class="st0" d="M-287.3-495.2l53.2,0v-1l-53.2,0V-495.2z M-200.5-495.2h53.2v3l7-3.5l-7-3.5v3h-53.2V-495.2z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -203.4668 -498.7007)" class="st1 st2 st3">SENDS</text>
+	</g>
+	<g transform="translate(-259.03989646293525 73.18431157514972) rotate(314.0903132491778)">
+		<path class="st0" d="M19.5,586.3h36.2v-1H19.5V586.3z M102.1,586.3h36.2v3l7-3.5l-7-3.5v3h-36.2V586.3z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 58.6908 588.8307)" class="st1 st2 st3">RECEIVES</text>
+	</g>
+	<g transform="translate(-136.67596042308864 -53.12819940787892) rotate(369.0100258707916)">
+		<path class="st0" d="M501.2,341.7l65.2,0v-1l-65.2,0V341.7z M600.1,341.7l65.2,0v3l7-3.5l-7-3.5v3l-65.2,0V341.7z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 569.4931 344.201)" class="st1 st2 st3">SENDS</text>
+	</g>
+	<g transform="translate(-67.18405742784476 28.319426286584697) rotate(311.58477729912335)">
+		<path class="st0" d="M-7.1,592l0.3-1c21.4,5.7,43.2,9.5,65.2,11.3l-0.1,1C36.2,601.5,14.3,597.7-7.1,592z M113.2,603.7l-0.1-1
+			c22.1-1.5,43.9-5,65.4-10.4l-0.7-2.9l7.6,1.7l-5.9,5.1l-0.7-2.9C157.3,598.8,135.4,602.2,113.2,603.7"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 61.3163 607.0539)" class="st1 st2 st3">SENDS_CDE</text>
+	</g>
+	<g transform="translate(-67.18405742784476 28.319426286584697) rotate(311.58477729912335)">
+		<path class="st0" d="M-7.1,578.1l0.3,1c21.4-5.7,43.2-9.5,65.2-11.3l-0.1-1C36.2,568.5,14.3,572.3-7.1,578.1z M113.2,566.3l-0.1,1
+			c22.1,1.5,43.9,5,65.4,10.4l-0.7,2.9l7.6-1.7l-5.9-5.1l-0.7,2.9C157.3,571.3,135.4,567.8,113.2,566.3"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 61.3162 569.0045)" class="st1 st2 st3">SENDS_CDE</text>
+	</g>
+	<g transform="translate(-67.18405742784476 28.319426286584697) rotate(466.72003470226514)">
+		<path class="st0" d="M299.2-517.2h60.8v-1h-60.8V-517.2z M415-517.2h60.8v3l7-3.5l-7-3.5v3H415V-517.2z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 411.9756 -520.7148)" class="st1 st2 st3">SENDS_CDE</text>
+	</g>
+	<g transform="translate(-134.38966024417178 252.0431131193348) rotate(321.41818367776204)">
+		<path class="st0" d="M94.3,582.2h45.4l0-1H94.3V582.2z M207.5,582.2h45.4v3l7-3.5l-7-3.5v3h-45.4V582.2z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 142.6572 584.7487)" class="st1 st2 st3">RECEIVES_CDE</text>
+	</g>
+	<g transform="translate(-67.18405742784476 28.319426286584697) rotate(214.19074728944827)">
+		<path class="st0" d="M-551.2-105.6l87.1,0l0-1l-87.1,0V-105.6z M-430.5-105.6l87.1,0v3l7-3.5l-7-3.5v3l-87.1,0V-105.6z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -433.4998 -109.1467)" class="st1 st2 st3">SENDS</text>
+	</g>
+	<g transform="translate(-286.18518313332766 -120.46188995164054) rotate(231.38962086657443)">
+		<path class="st0" d="M-556.8,69.5h17v-1l-17,0V69.5z M-467.7,69.5h17v3l7-3.5l-7-3.5v3h-17V69.5z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -470.712 65.9638)" class="st1 st2 st3">ISSUE_CREATED</text>
+	</g>
+	<g transform="translate(-387.9338426564953 -247.8728900526903) rotate(361.7398185827644)">
+		<path class="st0" d="M454.2,399.2l29.4,0v-1l-29.4,0V399.2z M528.1,399.2h29.4l0,3l7-3.5l-7-3.5v3h-29.4V399.2z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 486.5997 401.7266)" class="st1 st2 st3">VIOLATES</text>
+	</g>
+	<g transform="translate(-227.75200639147263 -243.00738293337182) rotate(475.49313401019907)">
+		<path class="st0" d="M217.1-553h19.7v-1h-19.7V-553z M276.1-553h19.7v3l7-3.5l-7-3.5v3h-19.7V-553z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 273.1048 -556.4827)" class="st1 st2 st3">CHECKS</text>
+	</g>
+	<g transform="translate(-67.18405742784476 28.319426286584697) rotate(192.64337499912165)">
+		<path class="st0" d="M-471.9-309.8h68.8v-1h-68.8V-309.8z M-369.6-309.8h68.8v3l7-3.5l-7-3.5v3h-68.8V-309.8z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -372.5813 -313.3355)" class="st1 st2 st3">SENDS</text>
+	</g>
+	<g transform="translate(-289.74842899548725 -21.606542663925232) rotate(307.38284094049504)">
+		<path class="st0" d="M-48.9,581.7h29.2v-1h-29.2V581.7z M26.7,581.7h29.2v3l7-3.5l-7-3.5v3H26.7L26.7,581.7z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -16.7486 584.1772)" class="st1 st2 st3">RECEIVES</text>
+	</g>
+	<g transform="translate(-191.53838162769912 -150.13971165466455) rotate(382.75581861119497)">
+		<path class="st0" d="M568.7,218.8h35v-1h-35V218.8z M637.2,218.8h35v3l7-3.5l-7-3.5v3h-35V218.8z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 606.6873 221.2665)" class="st1 st2 st3">SENDS</text>
+	</g>
+	<g transform="translate(-165.3687716253697 41.109620588800034) rotate(206.758688472181)">
+		<path class="st0" d="M-532.6-179.3h13.8v-1h-13.8V-179.3z M-464.1-179.3h13.8v3l7-3.5l-7-3.5v3h-13.8V-179.3z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -467.0661 -182.7819)" class="st1 st2 st3">GENERATES</text>
+	</g>
+	<g transform="translate(-165.3687716253697 41.109620588800034) rotate(313.35089659833807)">
+		<path class="st0" d="M11.9,586.2l32.9,0v-1l-32.9,0V586.2z M99.6,586.2h32.9v3l7-3.5l-7-3.5v3H99.6V586.2z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 47.848 588.7109)" class="st1 st2 st3">GENERATES</text>
+	</g>
+	<g transform="translate(-227.75200639147263 -243.00738293337182) rotate(465.6432513006357)">
+		<path class="st0" d="M308.9-512l66.8,0v-1h-66.8V-512z M415-512l66.8,0v3l7-3.5l-7-3.5v3l-66.8,0V-512z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 412.0334 -515.4703)" class="st1 st2 st3">CHECKS</text>
+	</g>
+	<g transform="translate(-156.77672503176927 413.7602612818805) rotate(277.881560944151)">
+		<path class="st0" d="M-325.5,469.9h32.8v-1h-32.8V469.9z M-252,469.9h32.8v3l7-3.5l-7-3.5v3H-252V469.9z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -289.7214 472.4329)" class="st1 st2 st3">DEFINES</text>
+	</g>
+	<g transform="translate(-21.789390376869594 348.2345845014778) rotate(514.107093464113)">
+		<path class="st0" d="M-170.3-551.8h16.6v-1h-16.6V-551.8z M-93.9-551.8h16.6v3l7-3.5l-7-3.5v3h-16.6V-551.8z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -96.852 -555.3286)" class="st1 st2 st3">REPORTS_TO</text>
+	</g>
+	<g transform="translate(34.151731755807276 117.58584130293202) rotate(463.63315948131185)">
+		<path class="st0" d="M326.7-501.7l43.5,0v-1l-43.5,0V-501.7z M463.6-501.7l43.5,0v3l7-3.5l-7-3.5v3l-43.5,0V-501.7z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 460.5851 -505.1964)" class="st1 st2 st3">APPLICATION_OWNER</text>
+	</g>
+	<g transform="translate(-269.5722235033375 418.75444963794206) rotate(357.46480000622887)">
+		<path class="st0" d="M423.3,430.1h1.7v-1h-1.7V430.1z M477.5,430.1h1.7v3l7-3.5l-7-3.5v3h-1.7V430.1z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 428.01 432.6144)" class="st1 st2 st3">REPORTS…</text>
+	</g>
+	<g transform="translate(-269.5722235033375 418.75444963794206) rotate(309.0378371958104)">
+		<path class="st0" d="M-32.1,583.6H7.3l0-1h-39.4V583.6z M86.2,583.6h39.4v3l7-3.5l-7-3.5v3H86.2V583.6z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 10.2759 586.0687)" class="st1 st2 st3">DQ_RESPONSIBLE</text>
+	</g>
+	<g transform="translate(-156.77672503176927 413.7602612818805) rotate(430.03278755043743)">
+		<path class="st0" d="M554.2-250.8h9.4v-1h-9.4V-250.8z M604.8-250.8h9.4v3l7-3.5l-7-3.5v3h-9.4V-250.8z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 566.6562 -248.3252)" class="st1 st2 st3">MEMBER</text>
+	</g>
+	<g transform="translate(-21.789390376869594 348.2345845014778) rotate(478.4355284712129)">
+		<path class="st0" d="M188.4-562.1l50.7,0v-1l-50.7,0V-562.1z M280.2-562.1H331v3l7-3.5l-7-3.5v3h-50.7V-562.1z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 277.2339 -565.6115)" class="st1 st2 st3">MEMBER</text>
+	</g>
+	<g transform="translate(-269.5722235033375 418.75444963794206) rotate(394.49878095197397)">
+		<path class="st0" d="M601.7,103.5l43.6,0v-1l-43.6,0V103.5z M686.5,103.5l43.6,0v3l7-3.5l-7-3.5v3l-43.6,0V103.5z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 648.3394 106.0476)" class="st1 st2 st3">MEMBER</text>
+	</g>
+	<g transform="translate(-67.18405742784476 28.319426286584697) rotate(496.63279672817845)">
+		<path class="st0" d="M4.5-585h35.2v-1H4.5V-585z M73.3-585h35.2v3l7-3.5l-7-3.5v3H73.3V-585z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 70.2517 -588.4979)" class="st1 st2 st3">SENDS</text>
+	</g>
+	<g transform="translate(-184.15490976154916 138.80650037272733) rotate(283.8943496585259)">
+		<path class="st0" d="M-274.4,504.1l47.1,0v-1l-47.1,0V504.1z M-180.8,504.1h47.1v3l7-3.5l-7-3.5v3h-47.1V504.1z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -224.2816 506.567)" class="st1 st2 st3">RECEIVES</text>
+	</g>
+</g>
+<g>
+	<g transform="translate(-67.18405742784476,28.319426286584697)">
+		<circle class="st4" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 406.6531 416.5749)" class="st5 st2 st6">ERP</text>
+	</g>
+	<g transform="translate(34.151731755807276,117.58584130293202)">
+		<circle class="st4" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 405.5471 416.5749)" class="st5 st2 st6">CRM</text>
+	</g>
+	<g transform="translate(91.51272934665413,198.69668576767268)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 398.0349 416.5749)" class="st8 st2 st6">User140</text>
+	</g>
+	<g transform="translate(147.0399058008224,56.86000768886865)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 400.8157 416.5749)" class="st8 st2 st6">User21</text>
+	</g>
+	<g transform="translate(92.65549413918099,-151.8085638552821)">
+		<circle class="st9" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 399.7024 411.5748)" class="st5 st2 st6">Product</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 405.5423 421.5748)" class="st5 st2 st6">Price</text>
+	</g>
+	<g transform="translate(262.8307004250375,14.872817690971539)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 400.8157 416.5749)" class="st8 st2 st6">User31</text>
+	</g>
+	<g transform="translate(265.7081824759928,187.82618820547899)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 403.0374 411.5749)" class="st8 st2 st6">Group</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 400.8182 421.5749)" class="st8 st2 st6">Back…</text>
+	</g>
+	<g transform="translate(179.50276359568684,-36.37083282060388)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 394.158 416.5748)" class="st8 st2 st6">CRM.Pr…</text>
+	</g>
+	<g transform="translate(-43.459453045643,-88.0273804374251)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 394.1579 416.5749)" class="st8 st2 st6">CRM.Pr…</text>
+	</g>
+	<g transform="translate(322.88462498640985,107.31183029912228)">
+		<circle class="st10" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 405.5471 416.5749)" class="st5 st2 st6">CRM</text>
+	</g>
+	<g transform="translate(449.2111486275128,129.46278982975787)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 393.0423 416.5749)" class="st8 st2 st6">CRM.Ad…</text>
+	</g>
+	<g transform="translate(353.3534124099902,291.21276260244264)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 393.6037 416.5749)" class="st8 st2 st6">CRM.Or…</text>
+	</g>
+	<g transform="translate(358.7470552241465,-7.330255014749634)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 393.323 416.5749)" class="st8 st2 st6">CRM.Ac…</text>
+	</g>
+	<g transform="translate(81.65475308273201,-18.50884759320546)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 393.323 416.5749)" class="st8 st2 st6">CRM.Ac…</text>
+	</g>
+	<g transform="translate(428.84768436735993,226.5820922145997)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 393.6037 416.5749)" class="st8 st2 st6">CRM.Or…</text>
+	</g>
+	<g transform="translate(187.86621960091762,-178.55298103772225)">
+		<circle class="st9" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 399.7024 411.5748)" class="st5 st2 st6">Product</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 406.6531 421.5748)" class="st5 st2 st6">Cost</text>
+	</g>
+	<g transform="translate(282.8036126624783,-258.4958143768717)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 396.924 411.5748)" class="st8 st2 st6">Financial</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 398.0349 421.5748)" class="st8 st2 st6">Planni…</text>
+	</g>
+	<g transform="translate(227.06823464191788,-382.5748471971421)">
+		<circle class="st4" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 408.6038 416.5749)" class="st5 st2 st6">DW</text>
+	</g>
+	<g transform="translate(171.1731544618198,-297.2554261498473)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 406.929 411.5749)" class="st8 st2 st6">Post</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 399.1507 421.5749)" class="st8 st2 st6">Calcu…</text>
+	</g>
+	<g transform="translate(72.61308576934503,-283.26098608817335)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 396.9241 411.5748)" class="st8 st2 st6">Financial</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 398.035 421.5748)" class="st8 st2 st6">Planni…</text>
+	</g>
+	<g transform="translate(108.97745937773796,-374.5536434968494)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 395.5325 411.5749)" class="st8 st2 st6">Profit and</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 406.3724 421.5749)" class="st8 st2 st6">Loss</text>
+	</g>
+	<g transform="translate(-24.339314053017823,-259.7447334049716)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 401.6507 411.5749)" class="st8 st2 st6">Margin</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 406.6507 421.5749)" class="st8 st2 st6">Rule</text>
+	</g>
+	<g transform="translate(-227.75200639147263,-243.00738293337182)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 401.6507 411.5749)" class="st8 st2 st6">Margin</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 402.7615 421.5749)" class="st8 st2 st6">Check</text>
+	</g>
+	<g transform="translate(-259.03989646293525,73.18431157514972)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 393.1277 416.5749)" class="st8 st2 st6">ERP.Par…</text>
+	</g>
+	<g transform="translate(-136.67596042308864,-53.12819940787892)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 398.035 406.5749)" class="st8 st2 st6">Maintain</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 405.5472 416.5749)" class="st8 st2 st6">CRM</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 403.5989 426.5749)" class="st8 st2 st6">Acc…</text>
+	</g>
+	<g transform="translate(-134.38966024417178,252.0431131193348)">
+		<circle class="st9" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 395.2615 411.5749)" class="st5 st2 st6">Customer</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 403.5965 421.5749)" class="st5 st2 st6">Name</text>
+	</g>
+	<g transform="translate(-286.18518313332766,-120.46188995164054)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 393.1277 416.5748)" class="st8 st2 st6">ERP.Pro…</text>
+	</g>
+	<g transform="translate(-387.9338426564953,-247.8728900526903)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 405.8108 416.5749)" class="st8 st2 st6">1234</text>
+	</g>
+	<g transform="translate(-289.74842899548725,-21.606542663925232)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 393.1277 416.5749)" class="st8 st2 st6">ERP.Pro…</text>
+	</g>
+	<g transform="translate(-191.53838162769912,-150.13971165466455)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 398.8699 406.5749)" class="st8 st2 st6">Recieve</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 408.5916 416.5749)" class="st8 st2 st6">and</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 402.2073 426.5749)" class="st8 st2 st6">proc…</text>
+	</g>
+	<g transform="translate(-165.3687716253697,41.109620588800034)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 393.8772 416.5748)" class="st8 st2 st6">PRODU…</text>
+	</g>
+	<g transform="translate(-156.77672503176927,413.7602612818805)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 400.8156 416.5749)" class="st8 st2 st6">User20</text>
+	</g>
+	<g transform="translate(-21.789390376869594,348.2345845014778)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 398.406 416.5749)" class="st8 st2 st6">User110</text>
+	</g>
+	<g transform="translate(-269.5722235033375,418.75444963794206)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 400.8157 416.5749)" class="st8 st2 st6">User30</text>
+	</g>
+	<g transform="translate(-116.82139289068562,523.7324018620413)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 403.0374 411.5749)" class="st8 st2 st6">Group</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 404.4265 421.5749)" class="st8 st2 st6">Sales</text>
+	</g>
+	<g transform="translate(-184.15490976154916,138.80650037272733)">
+		<circle class="st7" cx="416.9" cy="411.6" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 393.1277 416.5749)" class="st8 st2 st6">ERP.Par…</text>
+	</g>
+</g>
+</svg>

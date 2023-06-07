@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 345.8 195.8" style="enable-background:new 0 0 345.8 195.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A5ABB6;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;enable-background:new    ;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:8px;}
+	.st4{fill:#57C7E3;stroke:#23B3D7;stroke-width:2;}
+	.st5{fill:#2A2C34;enable-background:new    ;}
+	.st6{font-size:10px;}
+	.st7{fill:#D9C8AE;stroke:#C0A378;stroke-width:2;}
+</style>
+<g>
+	<g transform="translate(-276.34468532786104 69.27476300540127) rotate(361.262689340109)">
+		<path class="st0" d="M332.3,87.6l28.5,0v-1l-28.5,0V87.6z M415.7,87.6l28.5,0v3l7-3.5l-7-3.5v3l-28.5,0V87.6z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 363.8034 90.09)" class="st1 st2 st3">SENDS_CDE</text>
+	</g>
+	<g transform="translate(-107.55361104730136 72.99519761608886) rotate(314.14055599713254)">
+		<path class="st0" d="M170.3,285h23.1v-1h-23.1V285z M261.2,285h23.1v3l7-3.5l-7-3.5v3h-23.1V285z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 196.3649 287.4786)" class="st1 st2 st3">RECEIVES_CDE</text>
+	</g>
+	<g transform="translate(-276.34468532786104 69.27476300540127) rotate(297.6009505915872)">
+		<path class="st0" d="M82.3,321l0.3-1c6.8,1.8,13.7,3.3,20.6,4.3l-0.2,1C96.1,324.3,89.1,322.9,82.3,321z M157.9,326l-0.1-1
+			c7-0.9,13.9-2.2,20.7-3.9l-0.7-2.9l7.6,1.7l-6,5.1l-0.7-2.9C171.8,323.8,164.9,325.1,157.9,326"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 105.985 330.14)" class="st1 st2 st3">SENDS_CDE</text>
+	</g>
+	<g transform="translate(-206.22765134813454 -64.84133320033374) rotate(363.9889672673333)">
+		<path class="st0" d="M336.1,72.9h46.7v-1h-46.7V72.9z M450.6,72.9l46.7,0v3l7-3.5l-7-3.5v3h-46.7V72.9z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 385.8511 75.373)" class="st1 st2 st3">RECEIVES_CDE</text>
+	</g>
+	<g transform="translate(-276.34468532786104 69.27476300540127) rotate(297.6009505915872)">
+		<path class="st0" d="M82.3,307.1l0.3,1c6.8-1.8,13.7-3.3,20.6-4.3l-0.2-1C96.1,303.8,89.1,305.3,82.3,307.1z M157.9,302.1l-0.1,1
+			c7,0.9,13.9,2.2,20.7,3.9l-0.7,2.9l7.6-1.7l-6-5.1l-0.7,2.9C171.8,304.3,164.9,303.1,157.9,302.1"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 105.9852 304.0059)" class="st1 st2 st3">SENDS_CDE</text>
+	</g>
+</g>
+<g>
+	<g transform="translate(-276.34468532786104,69.27476300540127)">
+		<circle class="st4" cx="305.3" cy="93.8" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 295.0639 98.8414)" class="st5 st2 st6">ERP</text>
+	</g>
+	<g transform="translate(11.47613420799749,-49.66012644178848)">
+		<circle class="st4" cx="305.3" cy="93.8" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 293.9579 98.8413)" class="st5 st2 st6">CRM</text>
+	</g>
+	<g transform="translate(-107.55361104730136,72.99519761608886)">
+		<circle class="st7" cx="305.3" cy="93.8" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 283.6724 93.8414)" class="st5 st2 st6">Customer</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 292.0074 103.8414)" class="st5 st2 st6">Name</text>
+	</g>
+	<g transform="translate(-206.22765134813454,-64.84133320033374)">
+		<circle class="st7" cx="305.3" cy="93.8" r="25"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 288.1133 93.8413)" class="st5 st2 st6">Product</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 293.9531 103.8413)" class="st5 st2 st6">Price</text>
+	</g>
+</g>
+</svg>
